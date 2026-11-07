@@ -1,0 +1,14 @@
+numpy==1.24.4
+torch==2.4.1
+torchvision==0.19.1
+pytorch-lightning==1.5.10.post0
+torchmetrics==1.5.2
+transformers==4.46.3
+timm==0.4.12
+safetensors==0.5.3
+einops==0.3.2
+pandas==2.0.3
+Pillow==10.4.0
+opencv-python-headless==4.10.0.84
+datasets==2.20.0
+tensorboard==2.14.0
