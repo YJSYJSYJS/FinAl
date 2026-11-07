@@ -15,7 +15,7 @@ Store MIMIC-CXR-JPG and the M3AE checkpoint in any local directory, then provide
 
 ## Data preparation
 
-Access to [`StanfordAIMI/srrg_findings`](https://huggingface.co/datasets/StanfordAIMI/srrg_findings) and MIMIC-CXR-JPG is required.
+Access to [`StanfordAIMI/srrg_findings`](https://huggingface.co/datasets/StanfordAIMI/srrg_findings) and ['MIMIC-CXR-JPG'](https://physionet.org/content/mimic-cxr-jpg/2.1.0/) is required.
 
 ```bash
 huggingface-cli login
